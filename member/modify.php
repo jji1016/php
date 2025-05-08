@@ -39,6 +39,7 @@ require_once "include/header.php";
         <div class="my-5 text-center">
             <a href="info.php" class="btn btn-primary">이전으로</a>
             <button class="btn btn-primary">수정</button>
+            <a href="modifyPw.php" class="btn btn-primary">비밀번호 변경</a>
         </div>
     </form>
 </div>
